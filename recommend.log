@@ -1,0 +1,14 @@
+[2026-01-13 19:51:12,518] INFO - 🔁 Loading data...
+[2026-01-13 19:51:14,173] INFO - ✅ Data loaded successfully.
+[2026-01-13 19:56:40,605] INFO - 🔁 Loading data...
+[2026-01-13 19:56:42,043] INFO - ✅ Data loaded successfully.
+[2026-01-13 19:58:35,141] INFO - 🔁 Loading data...
+[2026-01-13 19:58:36,680] INFO - ✅ Data loaded successfully.
+[2026-01-13 20:00:00,610] INFO - 🎬 Recommending movies for: '(500) Days of Summer'
+[2026-01-13 20:00:00,626] INFO - ✅ Top 5 recommendations ready.
+[2026-01-13 20:01:00,464] INFO - 🎬 Recommending movies for: '(500) Days of Summer'
+[2026-01-13 20:01:00,477] INFO - ✅ Top 5 recommendations ready.
+[2026-01-13 20:05:08,988] INFO - 🎬 Recommending movies for: '(500) Days of Summer'
+[2026-01-13 20:05:09,002] INFO - ✅ Top 5 recommendations ready.
+[2026-01-13 20:05:41,871] INFO - 🎬 Recommending movies for: 'The Last Five Years'
+[2026-01-13 20:05:41,883] INFO - ✅ Top 5 recommendations ready.
